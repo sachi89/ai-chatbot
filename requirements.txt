@@ -1,0 +1,3 @@
+pip install flask langchain-openai
+pip install flask-cors
+pip freeze > requirements.txt
